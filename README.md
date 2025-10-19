@@ -47,7 +47,7 @@ All metrics and visualizations are backed by SQL queries, including:
 ## 🖼️ Dashboard Screenshots
 
 ### Summary Dashboard  
-![Summary Dashboard](Summary_Dashboard.png)
+![Summary Dashboard](https://github.com/Varun123456vk/Bank-Loan-Dashboard/blob/1ddced2d5a9e2e55baaeaa45e2a235aae0ec945a/Bank%20Loan%20Summary%20Dashboard.png)
 
 ### Overview Dashboard  
 ![Overview Dashboard](https://github.com/Varun123456vk/Bank-Loan-Dashboard/blob/2fc87045aa681d69a76b349a639c37caa8b26eaf/Bank%20Loan%20Overview%20Dashboard.png)
