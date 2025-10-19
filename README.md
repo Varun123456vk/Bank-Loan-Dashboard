@@ -50,7 +50,7 @@ All metrics and visualizations are backed by SQL queries, including:
 ![Summary Dashboard](Summary_Dashboard.png)
 
 ### Overview Dashboard  
-![Overview Dashboard](Overview_Dashboard.png)
+![Overview Dashboard](https://github.com/Varun123456vk/Bank-Loan-Dashboard/blob/2fc87045aa681d69a76b349a639c37caa8b26eaf/Bank%20Loan%20Overview%20Dashboard.png)
 ---
 
 ## 📂 How to Use
