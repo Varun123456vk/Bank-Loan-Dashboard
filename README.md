@@ -55,7 +55,7 @@ All metrics and visualizations are backed by SQL queries, including:
 
 ## 📂 How to Use
 
-1. Open `BankLoanDashboard.twbx` in Tableau.
+1. Open in Tableau [click here](https://github.com/Varun123456vk/Bank-Loan-Dashboard/blob/6d75250791f13fbb1a848a7dc611848385b77e59/Bank%20Dashboard.twbx).
 2. Connect to the sample dataset or your own SQL source.
 3. Use filters to explore loan performance by grade, purpose, or region.
 4. Review insights and trends to support financial decision-making.
